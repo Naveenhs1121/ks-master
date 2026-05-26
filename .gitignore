@@ -1,0 +1,39 @@
+# Sensitive data
+.env
+*.env
+*.sql
+*.zip
+
+# Virtual environments
+backend/venv/
+venv/
+ENV/
+env/
+.venv/
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Expo and React Native build/config
+frontend/.expo/
+frontend/.android/
+frontend/.ios/
+frontend/web-build/
+frontend/dist/
+.expo/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
