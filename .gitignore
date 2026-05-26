@@ -23,8 +23,8 @@ __pycache__/
 
 # Expo and React Native build/config
 frontend/.expo/
-frontend/.android/
-frontend/.ios/
+frontend/android/
+frontend/ios/
 frontend/web-build/
 frontend/dist/
 .expo/
